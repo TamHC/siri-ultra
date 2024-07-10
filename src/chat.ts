@@ -12,7 +12,7 @@ export interface IBody {
     api_base?: string;
     system_prompt?: string;
     api_key?: string;
-    search1api_key?: string;
+    apiKey?: string;
   };
 }
 
